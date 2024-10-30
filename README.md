@@ -2,7 +2,9 @@
 Staff Engineering Manager Cover Letter
 
 Re:  Staff Engineering Manager
+
 Dear Hiring Manager,
+
 I am writing to express my interest in the Staff Engineering Manager position at GitHub. With over two decades of experience in engineering leadership, fostering cross-functional collaboration, and driving architectural excellence, I am excited about the opportunity to contribute to GitHub’s mission by leading teams that deliver high-quality, secure, and scalable software solutions.
 
 I have extensive experience working closely with engineering teams, product management, and leadership to ensure alignment on solving complex technical challenges. At Crain Communications and Beachbody, I facilitated clear communication across teams, helping to unblock obstacles and ensure that work was progressing smoothly. By leveraging real-time communication tools like Slack and Zoom, and fostering asynchronous communication through GitHub Issues and PRs, I ensured that all stakeholders remained aligned on goals and progress.
